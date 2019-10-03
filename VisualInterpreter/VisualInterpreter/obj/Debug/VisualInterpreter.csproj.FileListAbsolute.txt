@@ -1,0 +1,10 @@
+C:\Users\trip9\source\repos\VisualInterpreter\VisualInterpreter\bin\Debug\VisualInterpreter.exe.config
+C:\Users\trip9\source\repos\VisualInterpreter\VisualInterpreter\bin\Debug\VisualInterpreter.exe
+C:\Users\trip9\source\repos\VisualInterpreter\VisualInterpreter\bin\Debug\VisualInterpreter.pdb
+C:\Users\trip9\source\repos\VisualInterpreter\VisualInterpreter\obj\Debug\VisualInterpreter.csprojAssemblyReference.cache
+C:\Users\trip9\source\repos\VisualInterpreter\VisualInterpreter\obj\Debug\VisualInterpreter.Form1.resources
+C:\Users\trip9\source\repos\VisualInterpreter\VisualInterpreter\obj\Debug\VisualInterpreter.Properties.Resources.resources
+C:\Users\trip9\source\repos\VisualInterpreter\VisualInterpreter\obj\Debug\VisualInterpreter.csproj.GenerateResource.cache
+C:\Users\trip9\source\repos\VisualInterpreter\VisualInterpreter\obj\Debug\VisualInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\trip9\source\repos\VisualInterpreter\VisualInterpreter\obj\Debug\VisualInterpreter.exe
+C:\Users\trip9\source\repos\VisualInterpreter\VisualInterpreter\obj\Debug\VisualInterpreter.pdb
